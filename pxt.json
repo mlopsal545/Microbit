@@ -1,5 +1,5 @@
 {
-    "name": "Programa01",
+    "name": "parpadeoLeds",
     "description": "",
     "dependencies": {
         "core": "*",
